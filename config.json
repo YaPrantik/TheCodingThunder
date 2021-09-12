@@ -11,13 +11,13 @@
         "blog_name":"TheCodingThunder",
         "welcome_name":"TheCodingThunder",
         "sub_welcome_name":"A Blog Liked Bye The Programmers",
-        "gmail_sender_user":"databasemailsender@gmail.com",
-        "gamil_sender_password":"@@arafat@@",
+        "gmail_sender_user":"yourmail@example.com",
+        "gamil_sender_password":"password",
         "gmail_rcvr_user":"yaprantik@gmail.com",
         "no_of_posts": 3,
         "login_img": "login.svg",
-        "admin_user":"prantik",
-        "admin_password":"@@arafat@@",
+        "admin_user":"username",
+        "admin_password":"password",
         "upload_location":"D:\\Docoments\\CoDinG\\Privet Project\\Python flask\\Project 1\\static\\img"
 
     }
