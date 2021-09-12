@@ -1,0 +1,26 @@
+{
+
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://username:password@server/db_name",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"TheCodingThunder",
+        "welcome_name":"TheCodingThunder",
+        "sub_welcome_name":"A Blog Liked Bye The Programmers",
+        "gmail_sender_user":"databasemailsender@gmail.com",
+        "gamil_sender_password":"@@arafat@@",
+        "gmail_rcvr_user":"yaprantik@gmail.com",
+        "no_of_posts": 3,
+        "login_img": "login.svg",
+        "admin_user":"prantik",
+        "admin_password":"@@arafat@@",
+        "upload_location":"D:\\Docoments\\CoDinG\\Privet Project\\Python flask\\Project 1\\static\\img"
+
+    }
+
+
+}
