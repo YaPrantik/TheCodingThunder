@@ -45,21 +45,6 @@ INSERT INTO `about` (`sno`, `name`, `slug`, `about_text`, `about_tline`) VALUES
 -- --------------------------------------------------------
 
 --
--- Table structure for table `contact`
---
-
-CREATE TABLE `contact` (
-  `sno` int(50) NOT NULL,
-  `name` text NOT NULL,
-  `email` varchar(50) NOT NULL,
-  `phone_num` varchar(50) NOT NULL,
-  `msg` text NOT NULL,
-  `date` date DEFAULT current_timestamp()
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
--- --------------------------------------------------------
-
---
 -- Table structure for table `contacts`
 --
 
